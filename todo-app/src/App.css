@@ -1,0 +1,16 @@
+h1{
+  font-weight:500px;
+
+}
+input{
+    width:100%;
+}
+.todolist-container{
+  text-align: left;
+}
+.kg-button{
+  min-width: 80px;
+}
+.kgrow{
+  margin: 10px 5px;
+}
