@@ -17,6 +17,11 @@ function App() {
     age:"12",
     email:"rdr@23",
   }
+  let Object4={
+    name:"git",
+    age:"12",
+    email:"rdr@23",
+  }
   let collegename=["iit","hug","yhu"]
   let Fooditems=[];
    
@@ -28,6 +33,7 @@ function App() {
       <User Data={Object2}/>
 
       <User Data= {Object3}/>
+      <User Data= {Object4}/>
       <h1>food list</h1>
     <Errormessage items={Fooditems}></Errormessage>
       <Fooditem items={Fooditems}></Fooditem>
